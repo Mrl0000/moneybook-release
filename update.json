@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":47,\"versionName\":\"0.1.47\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13618202,\"sha256\":\"a8960baf1b0f5675af375f3d8eda03cce4707f847e7913a4116d2933d198a847\",\"notes\":[\"「检查更新」通道已接通：以后出新版，在设置里点一下就能直接升级\"],\"builtAt\":\"2026-10-28T06:46:48.907Z\"}",
-  "sig": "nu3H+i1YefwPcEY8T5/r3/IYKufHHvylUt8lBvlFKZrt38BcNomuWPbThSYnsqOP64OBDYYOxZXO1ZJA4clWAA=="
+  "payload": "{\"versionCode\":48,\"versionName\":\"0.1.48\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13620942,\"sha256\":\"31a0c645a04d485feb8d24776ef2a41443f53e98285b2b7a23c0dac508a6d0a1\",\"notes\":[\"备份页可以把账单导出成表格了：Excel（.xlsx）或 CSV，Excel / WPS / Numbers 都能打开\",\"「关于」从左侧抽屉搬到了设置页，就在「震动反馈」下面\"],\"builtAt\":\"2026-10-28T07:16:59.098Z\"}",
+  "sig": "56kPlw5WJrMut5g678tJIOaWGswDbC0TFRQ+gmnP78q/12kBhOs1MQLauK3L/Np+KmTm5U1t42D2A+qKC+dlLQ=="
 }
