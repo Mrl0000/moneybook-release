@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":46,\"versionName\":\"0.1.46\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13618078,\"sha256\":\"40ce554d117e9cdf892113438e58e40ba77b00173c06d119eab2a9e9189032ec\",\"notes\":[\"支持应用内升级：设置里点「检查更新」，有新版本可以直接下载安装，不用再去电脑上取包\",\"升级前会校验安装包的身份与完整性，下载到的文件被改过会拒绝安装\"],\"builtAt\":\"2026-10-28T06:33:10.851Z\"}",
-  "sig": "UOPa/YT2ErpxmTPV5G0AD/eLSIBV9wzWMUv1Mu1WuTuMUS9gqARVvjH1wCTdc7dTM+vkba5UMdGDu5m45dUodw=="
+  "payload": "{\"versionCode\":47,\"versionName\":\"0.1.47\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13618202,\"sha256\":\"a8960baf1b0f5675af375f3d8eda03cce4707f847e7913a4116d2933d198a847\",\"notes\":[\"「检查更新」通道已接通：以后出新版，在设置里点一下就能直接升级\"],\"builtAt\":\"2026-10-28T06:46:48.907Z\"}",
+  "sig": "nu3H+i1YefwPcEY8T5/r3/IYKufHHvylUt8lBvlFKZrt38BcNomuWPbThSYnsqOP64OBDYYOxZXO1ZJA4clWAA=="
 }
