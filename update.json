@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":48,\"versionName\":\"0.1.48\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13620942,\"sha256\":\"31a0c645a04d485feb8d24776ef2a41443f53e98285b2b7a23c0dac508a6d0a1\",\"notes\":[\"备份页可以把账单导出成表格了：Excel（.xlsx）或 CSV，Excel / WPS / Numbers 都能打开\",\"「关于」从左侧抽屉搬到了设置页，就在「震动反馈」下面\"],\"builtAt\":\"2026-10-28T07:16:59.098Z\"}",
-  "sig": "56kPlw5WJrMut5g678tJIOaWGswDbC0TFRQ+gmnP78q/12kBhOs1MQLauK3L/Np+KmTm5U1t42D2A+qKC+dlLQ=="
+  "payload": "{\"versionCode\":49,\"versionName\":\"0.1.49\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13637358,\"sha256\":\"cf4ccf54a16af28efa538cb6a01a28f50ba1daaea9ddfa7ba77c3421849b8320\",\"notes\":[\"修「检查更新」的一个问题：下载完成后提示「安装包不存在」，装不上\"],\"builtAt\":\"2026-10-28T09:13:39.051Z\"}",
+  "sig": "cUatAoiyIdgOVN0ZbnTNx89qT2yEoO3yy4IhumS5d3e8tau8pCimPUlEpOosRgELNvLt5l/u0YWP7LnrdU6raQ=="
 }
