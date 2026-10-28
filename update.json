@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":49,\"versionName\":\"0.1.49\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13637358,\"sha256\":\"cf4ccf54a16af28efa538cb6a01a28f50ba1daaea9ddfa7ba77c3421849b8320\",\"notes\":[\"修「检查更新」的一个问题：下载完成后提示「安装包不存在」，装不上\"],\"builtAt\":\"2026-10-28T09:13:39.051Z\"}",
-  "sig": "cUatAoiyIdgOVN0ZbnTNx89qT2yEoO3yy4IhumS5d3e8tau8pCimPUlEpOosRgELNvLt5l/u0YWP7LnrdU6raQ=="
+  "payload": "{\"versionCode\":50,\"versionName\":\"0.1.50\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13637442,\"sha256\":\"5a464961d5056659bc7b1429e314c1f8420f5f723812a4377619642c251b81d9\",\"notes\":[\"导出账单的两个按钮改成一样的蓝色（CSV 之前是浅灰，看着像点不了）\"],\"builtAt\":\"2026-10-28T09:44:14.595Z\"}",
+  "sig": "YCCAJml3SRDJQIHt/aJ57fu+CFiGHeErRYF4o9cVWnj0dZnaDkZYTCpx/+viZSw2oYxyHLiqYKqXC/UiRVfBSQ=="
 }
