@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":52,\"versionName\":\"0.1.52\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13655688,\"sha256\":\"ca3087b4d59903b0e2e4760bc0f1a40e9b2bb39464f44c56b7f81d1c44b2f02e\",\"notes\":[\"房贷这种「已经还了几年」的负债能记了：填上接入前已还的期数，从第 N 期接着算\",\"已还的期数默认收起来，点开能看历史明细；在 App 里勾掉的那一期会有一个撕碎的效果\",\"录入时下面的预览改成「从现在起」的视角：现在还剩多少、下一期哪天还\"],\"builtAt\":\"2026-10-30T05:53:51.769Z\"}",
-  "sig": "oxTP9aJuWk15Ljq3nS1Y5DEVgWAP/toODfXzaNa5WNAF+Ic2DsZBVN/e/UnJ0QAU74XH7G7jXMU+GNedmjwUww=="
+  "payload": "{\"versionCode\":53,\"versionName\":\"0.1.53\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13658872,\"sha256\":\"30633296e1b0122704eb27206965e8a594655bf24fe7a9eda368a0a192bc6b48\",\"notes\":[\"负债可以记提前还款了：一次能填多笔，选「月供不变·缩短年限」或「期数不变·降低月供」\",\"计划表里会标出「第 N 期后提前还了多少」，以及这一笔帮你省了多少利息\",\"还没发生的提前还款可以标成「计划中」：只影响上岸时间，不会让今天的欠款变少\"],\"builtAt\":\"2026-10-30T06:49:49.807Z\"}",
+  "sig": "pnllruiOfFrBOMM9CD3MQ1gSLwoydTiYfrCA5v2I+b409v2Oq0Ai5jUHzhroCl+6NfwukN4UV7qCDWp+oZ1SUQ=="
 }
