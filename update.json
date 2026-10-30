@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":51,\"versionName\":\"0.1.51\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13653948,\"sha256\":\"e875c51c5d59f9dde93bd1f3844e57fdee72306face101c095d01f7cf4f275df\",\"notes\":[\"新模块「上岸」：把花呗、月付、房贷这些记进来，一眼看到还欠多少、利息多贵、什么时候能上岸\",\"每笔负债都能看逐期还款计划，还一期打一个勾，进度自动更新\",\"会把你填的「月费率」折算成真实年化 —— 标称 0.73%/月 的分期，实际年化约 16%\",\"只还最低还款的循环额度会单独警告：按现在的还款额永远还不完\"],\"builtAt\":\"2026-10-30T03:47:42.134Z\"}",
-  "sig": "4M0+Ngf8E2h/nu72YggodK/wKwbbcDMw1INN672UThvEhzqreF69kVZzuEPjDC7tBzFBLvDPB9G3i0JKTF0x4g=="
+  "payload": "{\"versionCode\":52,\"versionName\":\"0.1.52\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13655688,\"sha256\":\"ca3087b4d59903b0e2e4760bc0f1a40e9b2bb39464f44c56b7f81d1c44b2f02e\",\"notes\":[\"房贷这种「已经还了几年」的负债能记了：填上接入前已还的期数，从第 N 期接着算\",\"已还的期数默认收起来，点开能看历史明细；在 App 里勾掉的那一期会有一个撕碎的效果\",\"录入时下面的预览改成「从现在起」的视角：现在还剩多少、下一期哪天还\"],\"builtAt\":\"2026-10-30T05:53:51.769Z\"}",
+  "sig": "oxTP9aJuWk15Ljq3nS1Y5DEVgWAP/toODfXzaNa5WNAF+Ic2DsZBVN/e/UnJ0QAU74XH7G7jXMU+GNedmjwUww=="
 }
