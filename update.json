@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":57,\"versionName\":\"0.1.57\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13662792,\"sha256\":\"7aafcccdc012b08a051665cecebfa764ddf9fabd416eb33f934f5c0ab009cadf\",\"notes\":[\"提前还款改成「先填哪天还的」，第几期由日期自动算出来\",\"修掉提前还款日期总被改回首期还款日的问题（勾选或重开都会变）\",\"「编辑负债」页重排成分组卡片：基本信息 / 贷款参数 / 还款进度 / 提前还款 / 其他\",\"参数标题与说明文字分开层级，参数之间加了分隔线，不再糊成一团\"],\"builtAt\":\"2026-10-30T15:16:24.064Z\"}",
-  "sig": "hUkXxXV3AbltuK4angMcznaD4Wn81q9sBblKZT+xfhmyVF7KI6yQnQIhHdKINIOBe9KutSfoAc1eKaZrZr3Svw=="
+  "payload": "{\"versionCode\":58,\"versionName\":\"0.1.58\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13664192,\"sha256\":\"35e484277d319c8ec1009f8b231b6511909e7d135a0a4e53fe170e0734317628\",\"notes\":[\"编辑负债页改成「左边名称、右边值」，一个参数一行，不再分两行占地方\",\"利率口径跟着平台走：房贷车贷只填年化，不再让你选月费率\",\"详情页拆成「未来还款计划」和「历史还款明细」：前者默认露 3 期可展开，后者默认收起\",\"还款计划的字放大了一号；右上角「编辑」现在真的能点开了\",\"「标记第 N 期已还」改成「撕掉这一期」，撕的时候有碎纸动画；第一期是「开始了」，最后一期是「上岸了」，每撕满 12 期已还数字会跳一下\",\"修掉几处说明文案：不再出现星号、重复括号，以及和勾选项自相矛盾的说法\"],\"builtAt\":\"2026-10-30T16:14:58.359Z\"}",
+  "sig": "BAfZSloPAPjlhluoOoXIZfjQqMwiqaWXTOPv7vw+AA9Vw5Ibp5MACgOb10HgzZISJPDhoAp3QqjRDjyYLGlgIg=="
 }
