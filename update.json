@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":55,\"versionName\":\"0.1.55\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13659688,\"sha256\":\"94fe6e3cb1081ea542c492336e98d91836cb1699abb744855a75e2418c010761\",\"notes\":[\"提前还款的金额口径写清楚了：填的是「本金」，不含当期利息\"],\"builtAt\":\"2026-10-30T08:35:20.975Z\"}",
-  "sig": "LdmQSC2AxY30laJvpXBGePWAPSZJiea2V+JRAJE3Qhqh4yB7tJpjTLqADPrDl288CHOUzs5AnoXSPCjFrOp/9Q=="
+  "payload": "{\"versionCode\":56,\"versionName\":\"0.1.56\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13662028,\"sha256\":\"1333bdf96c2ec6cdc5d247de3b42c01199b27a33c07c32cf62693b55af8f5141\",\"notes\":[\"提前还款可以勾「金额含当期利息」：勾上后先扣掉这几天的应计利息，剩下才减本金（不勾就是全额冲本金）\",\"旁边的 ? 点开有例子，说清楚这个勾选到底影响什么\"],\"builtAt\":\"2026-10-30T09:00:31.973Z\"}",
+  "sig": "R7OdTxg+7q7U211uGQt2f5OxAH3Ohumfn1W2iLiJoh1Emk0juZ5JJXq85J5KmtcefSzIxO3wA7/hdWiL2jjbzg=="
 }
