@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":53,\"versionName\":\"0.1.53\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13658872,\"sha256\":\"30633296e1b0122704eb27206965e8a594655bf24fe7a9eda368a0a192bc6b48\",\"notes\":[\"负债可以记提前还款了：一次能填多笔，选「月供不变·缩短年限」或「期数不变·降低月供」\",\"计划表里会标出「第 N 期后提前还了多少」，以及这一笔帮你省了多少利息\",\"还没发生的提前还款可以标成「计划中」：只影响上岸时间，不会让今天的欠款变少\"],\"builtAt\":\"2026-10-30T06:49:49.807Z\"}",
-  "sig": "pnllruiOfFrBOMM9CD3MQ1gSLwoydTiYfrCA5v2I+b409v2Oq0Ai5jUHzhroCl+6NfwukN4UV7qCDWp+oZ1SUQ=="
+  "payload": "{\"versionCode\":54,\"versionName\":\"0.1.54\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13659364,\"sha256\":\"7621199ca744151e27ddf2d6c7ae048b05572d4d617cd6d816dc5734241f4a1a\",\"notes\":[\"修：同一期填了多笔提前还款（比如先还 20 万缩期、再还 10 万降月供）时，以前会把它们合并成一笔只按第一种方式算，期数会算少\",\"录入时会显示「如果一次都没提前还，现在应该还剩多少」，方便你和银行 App 的贷款余额对账\"],\"builtAt\":\"2026-10-30T07:30:11.905Z\"}",
+  "sig": "lvixkGvFcBXdACp1Vh3vVcgZUc8aN5HAJ8k6PF1gLcFccS93hJLMl4Bbx4wr8y6TmMz9pVzyCDTDJJ5+kwTO9w=="
 }
