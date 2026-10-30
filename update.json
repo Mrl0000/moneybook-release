@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":50,\"versionName\":\"0.1.50\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13637442,\"sha256\":\"5a464961d5056659bc7b1429e314c1f8420f5f723812a4377619642c251b81d9\",\"notes\":[\"导出账单的两个按钮改成一样的蓝色（CSV 之前是浅灰，看着像点不了）\"],\"builtAt\":\"2026-10-28T09:44:14.595Z\"}",
-  "sig": "YCCAJml3SRDJQIHt/aJ57fu+CFiGHeErRYF4o9cVWnj0dZnaDkZYTCpx/+viZSw2oYxyHLiqYKqXC/UiRVfBSQ=="
+  "payload": "{\"versionCode\":51,\"versionName\":\"0.1.51\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13653948,\"sha256\":\"e875c51c5d59f9dde93bd1f3844e57fdee72306face101c095d01f7cf4f275df\",\"notes\":[\"新模块「上岸」：把花呗、月付、房贷这些记进来，一眼看到还欠多少、利息多贵、什么时候能上岸\",\"每笔负债都能看逐期还款计划，还一期打一个勾，进度自动更新\",\"会把你填的「月费率」折算成真实年化 —— 标称 0.73%/月 的分期，实际年化约 16%\",\"只还最低还款的循环额度会单独警告：按现在的还款额永远还不完\"],\"builtAt\":\"2026-10-30T03:47:42.134Z\"}",
+  "sig": "4M0+Ngf8E2h/nu72YggodK/wKwbbcDMw1INN672UThvEhzqreF69kVZzuEPjDC7tBzFBLvDPB9G3i0JKTF0x4g=="
 }
