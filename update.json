@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":56,\"versionName\":\"0.1.56\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13662028,\"sha256\":\"1333bdf96c2ec6cdc5d247de3b42c01199b27a33c07c32cf62693b55af8f5141\",\"notes\":[\"提前还款可以勾「金额含当期利息」：勾上后先扣掉这几天的应计利息，剩下才减本金（不勾就是全额冲本金）\",\"旁边的 ? 点开有例子，说清楚这个勾选到底影响什么\"],\"builtAt\":\"2026-10-30T09:00:31.973Z\"}",
-  "sig": "R7OdTxg+7q7U211uGQt2f5OxAH3Ohumfn1W2iLiJoh1Emk0juZ5JJXq85J5KmtcefSzIxO3wA7/hdWiL2jjbzg=="
+  "payload": "{\"versionCode\":57,\"versionName\":\"0.1.57\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13662792,\"sha256\":\"7aafcccdc012b08a051665cecebfa764ddf9fabd416eb33f934f5c0ab009cadf\",\"notes\":[\"提前还款改成「先填哪天还的」，第几期由日期自动算出来\",\"修掉提前还款日期总被改回首期还款日的问题（勾选或重开都会变）\",\"「编辑负债」页重排成分组卡片：基本信息 / 贷款参数 / 还款进度 / 提前还款 / 其他\",\"参数标题与说明文字分开层级，参数之间加了分隔线，不再糊成一团\"],\"builtAt\":\"2026-10-30T15:16:24.064Z\"}",
+  "sig": "hUkXxXV3AbltuK4angMcznaD4Wn81q9sBblKZT+xfhmyVF7KI6yQnQIhHdKINIOBe9KutSfoAc1eKaZrZr3Svw=="
 }
