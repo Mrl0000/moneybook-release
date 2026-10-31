@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":71,\"versionName\":\"0.1.71\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13681739,\"sha256\":\"a0956d26d56cb3825cf9f00741db658e6cee868b09141cab1704278e4131889b\",\"notes\":[\"修掉「上岸」右上角「+」点不动、没法新建负债的问题，现在能正常进「记一笔负债」\",\"首页右滑开抽屉更灵敏：轻轻慢慢往右滑也能跟着手指展开，不用非得快速甩一下\"],\"builtAt\":\"2026-10-31T13:43:37.367Z\"}",
-  "sig": "hl8Km/5rvw16faK518brdv4h3R4Ev1w/7CLND+a1NAE8l+Y9xQRNCEwQk0EKZcPxDbeWlcKdKDee/QECgPzCgA=="
+  "payload": "{\"versionCode\":72,\"versionName\":\"0.1.72\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13685171,\"sha256\":\"c9375f455677ef17ffff140a0185bce3b6f632aadf0c6320c33b90b5bc42eafc\",\"notes\":[\"记负债先选类型：点完「房贷」之后，其它八个平台自动收起成一行（右侧「更换」可改），下面只留这类债要填的东西\",\"基本信息按类型补了三项专属信息（都可以不填）：房贷填贷款银行、贷款构成（纯商贷/公积金/组合贷）和合同尾号；车贷填放款机构、车型和合同尾号；花呗这类分期填账单日、额度上限和账号尾号\",\"这些信息会显示在负债详情页顶部的一行小字里，方便和银行 App 对账\"],\"builtAt\":\"2026-10-31T14:14:56.246Z\"}",
+  "sig": "WKWb3SQMk9dWfIvIFl6xq8dyWBbIBdJoSWyuCWJiiEgVQKkFF5UeLy9DVwjzzRJAAdVN1QbyLnEG7xwok/hjOw=="
 }
