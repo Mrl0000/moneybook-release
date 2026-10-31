@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":64,\"versionName\":\"0.1.64\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13671895,\"sha256\":\"5f520ae8800b9939ea6bb41ec0888c6db198aabf8e530fcb7e09ce49732687fd\",\"notes\":[\"撕账单的烟花改成「从中心射出的火花」：90 多根细线向四周张开、尾巴渐隐，暖金色\",\"烟花炸开的位置对准「负债名称」那一行（上一版炸在按钮上了）\"],\"builtAt\":\"2026-10-31T09:50:02.640Z\"}",
-  "sig": "sC+zl3WmZ7e92NmqvaHU7/AA90vLNcRam69pxuwmM5bE40RNh4+LnTEZetiKa0+6xKhpv7fwMV/+QrDoc4sbow=="
+  "payload": "{\"versionCode\":65,\"versionName\":\"0.1.65\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13679525,\"sha256\":\"46f7081893905cf6b10f9e637e0ab4a38abc21202217ecde6bea35290515b33b\",\"notes\":[\"「关于」页重做：图标、名称、版本号合成一块，下面只留三行入口\",\"新增「使用手册」：记一笔、看统计、管负债、备份导出，各写了几条\",\"新增「隐私政策」：说明不收集任何信息、数据只存在本机\",\"新增「版本更新」页：按新功能 / 问题修复 / 优化分块列出这次改了什么\",\"有新版本时，关于页的版本号后面会出现小红点和「有新版发布」，点进去可以一键更新\"],\"builtAt\":\"2026-10-31T10:15:29.000Z\"}",
+  "sig": "/7Ciwsx4odkfFQwaI/7cv9ojWFvUiMSb4n4SbcYsV7J9BPChqsrCdWYkJByzQ0kZI3jCPGpm75lzFgs88NdkGA=="
 }
