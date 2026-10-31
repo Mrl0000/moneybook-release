@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":58,\"versionName\":\"0.1.58\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13664192,\"sha256\":\"35e484277d319c8ec1009f8b231b6511909e7d135a0a4e53fe170e0734317628\",\"notes\":[\"编辑负债页改成「左边名称、右边值」，一个参数一行，不再分两行占地方\",\"利率口径跟着平台走：房贷车贷只填年化，不再让你选月费率\",\"详情页拆成「未来还款计划」和「历史还款明细」：前者默认露 3 期可展开，后者默认收起\",\"还款计划的字放大了一号；右上角「编辑」现在真的能点开了\",\"「标记第 N 期已还」改成「撕掉这一期」，撕的时候有碎纸动画；第一期是「开始了」，最后一期是「上岸了」，每撕满 12 期已还数字会跳一下\",\"修掉几处说明文案：不再出现星号、重复括号，以及和勾选项自相矛盾的说法\"],\"builtAt\":\"2026-10-30T16:14:58.359Z\"}",
-  "sig": "BAfZSloPAPjlhluoOoXIZfjQqMwiqaWXTOPv7vw+AA9Vw5Ibp5MACgOb10HgzZISJPDhoAp3QqjRDjyYLGlgIg=="
+  "payload": "{\"versionCode\":59,\"versionName\":\"0.1.59\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13666076,\"sha256\":\"01f2bc31e2d5a2a578cfac3ecdaaa371c687d47935a2f9eeb4b7b179db56ccaa\",\"notes\":[\"撕账单改成礼花效果：碎纸先向上抛一下再落下，颜色是彩色的\",\"参数值不再贴着屏幕右边；点进输入框时光标落到末尾，不会插到文字中间\",\"去掉点击参数时那圈黄色边框，改成左侧参数名变色\",\"改「首期还款日」会自动算出「接入前已还多少期」，也可以手动改\",\"选日期改成 App 内的日历（和记账页一样），不再弹出系统日历\",\"「含当期利息」的解释改成居中的小科普弹窗，不再把下面的记录顶走\",\"修掉同一期分两笔提前还款时，两笔的利息和本金显示成一模一样的问题\"],\"builtAt\":\"2026-10-31T02:47:34.872Z\"}",
+  "sig": "QyxTWDlPPfp+9nOQLDKnGcox60z3aBs834SwnopUmfjNw92W/Td57QZi6aTot0PDMkr6pNB9B/ZWCJM/9DV31w=="
 }
