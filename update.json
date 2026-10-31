@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":74,\"versionName\":\"0.1.74\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13686563,\"sha256\":\"3dde8d68205c939b0f655cf41bac9b4190d36d6ebccefb869bc4ac32be1af063\",\"notes\":[\"修「统计报表切到年报表时整屏变白、点哪都没反应」：那一页的程序没加载下来时，App 会自动重载一次补齐（升级之后第一次打开某个页面时最常见）\",\"万一某个页面真的出错，现在会显示一句原因和「返回上一页 / 回首页」，不再是白屏 —— 遇到时截个图发我就行\"],\"builtAt\":\"2026-10-31T14:45:53.528Z\"}",
-  "sig": "0LcSTuq7oV0yUBaNptfD3qv4fzOW2ydCoWnVnNiUDiTdhO6GlO0bcpwQPcC6Iw06r/tJZa5lKqA9wacyhYvLMw=="
+  "payload": "{\"versionCode\":75,\"versionName\":\"0.1.75\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13688015,\"sha256\":\"9d2611b9b8885a74ccca2ae5149cba3e047d26bafd4a95eb09d220448680d156\",\"notes\":[\"修「统计报表切到年报表整屏白」：根因是切页时那一下\\\"关闭动画\\\"的过渡在退出阶段崩了，现在月/年/日之间这种不播动画的切换不再经过过渡层，年报表能正常打开\"],\"builtAt\":\"2026-10-31T15:12:41.791Z\"}",
+  "sig": "8GgRvonPbUMmhJjKr3dQCI+6XwAA5vkItCGsDDVMRMXOXgKDEgzaabf7V1hy1XmTa79ccHlZamcHuTMaxA/Vhw=="
 }
