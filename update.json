@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":62,\"versionName\":\"0.1.62\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13671463,\"sha256\":\"76a105b766e6b50ffef8f37b56430a6328ad38780c2e47627da3788c40618ae6\",\"notes\":[\"支持「利率变更历史」：一次降息填一段，历史每期的利息和月供才能和银行对上\",\"编辑负债页的「利率变更」可以一键按公积金政策填充（含新发放 / 存量的不同执行日）\",\"负债详情页的「年化」显示当前适用的利率，并注明调整过几次\",\"备份与恢复包含利率变更记录\"],\"builtAt\":\"2026-10-31T09:22:07.916Z\"}",
-  "sig": "a0m7lfmpXvSzjWe+JMVv1WlLaO/OioI+7YhV0KG2diNrcmBgXBilifnYl6JCZkLsIP48ehKZRl+OcSJz4UiWCA=="
+  "payload": "{\"versionCode\":63,\"versionName\":\"0.1.63\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13671831,\"sha256\":\"b34f428d190a8cf30d0d124dc259cddec6fd83110d64052e52ef6b9fe81778e2\",\"notes\":[\"撕账单的烟花改成放射状随机散开（不再是几圈弧线），炸开的位置对齐负债名称那一行\",\"修掉提前还款利息算少了：同一期有两笔时，第一笔的计息基数被压小了\",\"提前还款的利息按「付款当时」的利率算，不再用今天的利率回推历史\"],\"builtAt\":\"2026-10-31T09:33:30.548Z\"}",
+  "sig": "KdQ4H01ZAEhtqT00JGwKgRZk//R5HhODTIXkKTUiFSy8+gst8uhNqbN5RQ+Kf0CdHeBfqV+ENKBuvK4cQTnbbg=="
 }
