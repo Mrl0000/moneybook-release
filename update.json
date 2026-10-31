@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":67,\"versionName\":\"0.1.67\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13679399,\"sha256\":\"7e2aa7728fe645cb7bf6a4748159bd09dda74dd94512fff528159081239afd92\",\"notes\":[\"设置里新增「全局震动反馈」：开着的时候点任何按钮、开关、列表行都会轻震一下\",\"「分类管理」和「账单导入导出」从左侧抽屉搬进设置页，抽屉只留上岸、秒开模式和设置\",\"「外观」改名为「主题」，「备份与恢复」改名为「账单导入导出」\",\"版本更新下载时，底部按钮会被蓝色一点点填满，填满就是下载完成\"],\"builtAt\":\"2026-10-31T11:54:31.142Z\"}",
-  "sig": "GcfsjQLwZsfMxXK6AeSfGwRn1qFiJu5oxW0bp5ROZY4UYzdaUURMyyjyyxH4iy6H54aq0AdmfQtL4rZwRcbO/A=="
+  "payload": "{\"versionCode\":68,\"versionName\":\"0.1.68\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13681055,\"sha256\":\"263e76a20c3ed236e318f54e665fad390b0d8b1c9d5eb0641b7eed51d678f460\",\"notes\":[\"「上岸」总览顶部换成进度条主导：还欠着下面一条「已还本金 / 共多少」的进度，下面四格读数（本月要还、已还利息、还要付利息、上岸倒计时）\",\"页面切换有了方向感：进下一层从右侧推进来，返回时反方向退出去\",\"所有弹层（分类、日期、确认框、小科普）改成从底部上滑出现\",\"统计页的日 / 月 / 年之间切换改成淡入淡出，不再左右滑\",\"总欠款数字会从旧值滚到新值（不是每次进来都从 0 开始）\",\"负债列表一项一项淡入，每项间隔 40 毫秒\"],\"builtAt\":\"2026-10-31T12:34:08.705Z\"}",
+  "sig": "SiVsf99tO3bEFSrRHpI67DZ0Y3SAdOEhjR2dCcbeiS5HsbBA9OdV+gw0+WHBkIZ+SUCQtKfsnubvD8KEZZvddg=="
 }
