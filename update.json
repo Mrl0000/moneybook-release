@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":60,\"versionName\":\"0.1.60\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13666704,\"sha256\":\"4d4e5b374825e6731b17182110a832a543ec10a9cea7b1e29dcc3b672b9e1a47\",\"notes\":[\"撕账单改成真正的烟花：从这一期升空、在上方炸开、向两侧散开后落下\",\"点参数不再冒出蓝框，只保留参数名变色\",\"「首期还款日」挪到「接入前已还」上面，先选日期再算期数；反过来改期数也会带动日期\",\"几个说明问号与标题对齐了\",\"修掉同一期第二笔提前还款利息显示 ¥0.00 的问题\"],\"builtAt\":\"2026-10-31T08:13:28.283Z\"}",
-  "sig": "gXjUxiswCdPdcp1YxqzzclCHFNoX+gS4/DXDjM0/mlBTKjV+Jb49RRgWpl2m5zOcOykJakTva1+DbeM4eZRY4Q=="
+  "payload": "{\"versionCode\":61,\"versionName\":\"0.1.61\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13667788,\"sha256\":\"44ca37b98855452d775e3da45a6299005a4eb1c8503dca7821f7de8c0ef68ccb\",\"notes\":[\"撕账单改成真烟花：先冲到屏幕上方再炸开，碎片向两侧划着弧线落下\",\"修掉提前还款的利息算多了：应该只按「这次还的这笔钱」算，不再按整笔欠款算\",\"提前还款每条都标上「第 N 笔」，多笔时不再分不清\",\"每条提前还款下面显示计息算式，方便和银行 App 对账\"],\"builtAt\":\"2026-10-31T09:01:19.997Z\"}",
+  "sig": "Ee7GrCfCgAYXEfbJqh5gapapbC9CONP3ufWZrKjsr5gKygLq8ozVuwd+TCydR2d3dS6d/4wBeGL/sX7krFrG9A=="
 }
