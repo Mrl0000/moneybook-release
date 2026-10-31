@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":72,\"versionName\":\"0.1.72\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13685171,\"sha256\":\"c9375f455677ef17ffff140a0185bce3b6f632aadf0c6320c33b90b5bc42eafc\",\"notes\":[\"记负债先选类型：点完「房贷」之后，其它八个平台自动收起成一行（右侧「更换」可改），下面只留这类债要填的东西\",\"基本信息按类型补了三项专属信息（都可以不填）：房贷填贷款银行、贷款构成（纯商贷/公积金/组合贷）和合同尾号；车贷填放款机构、车型和合同尾号；花呗这类分期填账单日、额度上限和账号尾号\",\"这些信息会显示在负债详情页顶部的一行小字里，方便和银行 App 对账\"],\"builtAt\":\"2026-10-31T14:14:56.246Z\"}",
-  "sig": "WKWb3SQMk9dWfIvIFl6xq8dyWBbIBdJoSWyuCWJiiEgVQKkFF5UeLy9DVwjzzRJAAdVN1QbyLnEG7xwok/hjOw=="
+  "payload": "{\"versionCode\":74,\"versionName\":\"0.1.74\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13686563,\"sha256\":\"3dde8d68205c939b0f655cf41bac9b4190d36d6ebccefb869bc4ac32be1af063\",\"notes\":[\"修「统计报表切到年报表时整屏变白、点哪都没反应」：那一页的程序没加载下来时，App 会自动重载一次补齐（升级之后第一次打开某个页面时最常见）\",\"万一某个页面真的出错，现在会显示一句原因和「返回上一页 / 回首页」，不再是白屏 —— 遇到时截个图发我就行\"],\"builtAt\":\"2026-10-31T14:45:53.528Z\"}",
+  "sig": "0LcSTuq7oV0yUBaNptfD3qv4fzOW2ydCoWnVnNiUDiTdhO6GlO0bcpwQPcC6Iw06r/tJZa5lKqA9wacyhYvLMw=="
 }
