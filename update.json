@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":63,\"versionName\":\"0.1.63\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13671831,\"sha256\":\"b34f428d190a8cf30d0d124dc259cddec6fd83110d64052e52ef6b9fe81778e2\",\"notes\":[\"撕账单的烟花改成放射状随机散开（不再是几圈弧线），炸开的位置对齐负债名称那一行\",\"修掉提前还款利息算少了：同一期有两笔时，第一笔的计息基数被压小了\",\"提前还款的利息按「付款当时」的利率算，不再用今天的利率回推历史\"],\"builtAt\":\"2026-10-31T09:33:30.548Z\"}",
-  "sig": "KdQ4H01ZAEhtqT00JGwKgRZk//R5HhODTIXkKTUiFSy8+gst8uhNqbN5RQ+Kf0CdHeBfqV+ENKBuvK4cQTnbbg=="
+  "payload": "{\"versionCode\":64,\"versionName\":\"0.1.64\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13671895,\"sha256\":\"5f520ae8800b9939ea6bb41ec0888c6db198aabf8e530fcb7e09ce49732687fd\",\"notes\":[\"撕账单的烟花改成「从中心射出的火花」：90 多根细线向四周张开、尾巴渐隐，暖金色\",\"烟花炸开的位置对准「负债名称」那一行（上一版炸在按钮上了）\"],\"builtAt\":\"2026-10-31T09:50:02.640Z\"}",
+  "sig": "sC+zl3WmZ7e92NmqvaHU7/AA90vLNcRam69pxuwmM5bE40RNh4+LnTEZetiKa0+6xKhpv7fwMV/+QrDoc4sbow=="
 }
