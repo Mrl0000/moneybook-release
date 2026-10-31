@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":66,\"versionName\":\"0.1.66\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13678319,\"sha256\":\"80d7e6308fb0fd927abae4069b978b47da165613419abde72380eebd72ac5aec\",\"notes\":[\"设置页去掉了底部的「更新」一块，升级统一从「关于 → 当前版本」进去\",\"「关于」页最上面那片（图标、名称、版本号）现在整块都能点，一路进到版本更新页\",\"版本更新页底部的按钮换成带图标的主按钮：能看到「已是最新版本」，点一下还能再查一遍\"],\"builtAt\":\"2026-10-31T10:37:47.669Z\"}",
-  "sig": "UHnCLWaZBwpA1wCYtB5wZdTWACV9koy7GOXbaN18RMcRLCgLDEoCm+KkY2LqfDX91nc8TsIi3zmm5IuG7iwLOQ=="
+  "payload": "{\"versionCode\":67,\"versionName\":\"0.1.67\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13679399,\"sha256\":\"7e2aa7728fe645cb7bf6a4748159bd09dda74dd94512fff528159081239afd92\",\"notes\":[\"设置里新增「全局震动反馈」：开着的时候点任何按钮、开关、列表行都会轻震一下\",\"「分类管理」和「账单导入导出」从左侧抽屉搬进设置页，抽屉只留上岸、秒开模式和设置\",\"「外观」改名为「主题」，「备份与恢复」改名为「账单导入导出」\",\"版本更新下载时，底部按钮会被蓝色一点点填满，填满就是下载完成\"],\"builtAt\":\"2026-10-31T11:54:31.142Z\"}",
+  "sig": "GcfsjQLwZsfMxXK6AeSfGwRn1qFiJu5oxW0bp5ROZY4UYzdaUURMyyjyyxH4iy6H54aq0AdmfQtL4rZwRcbO/A=="
 }
