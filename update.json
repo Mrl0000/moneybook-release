@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":69,\"versionName\":\"0.1.69\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13681263,\"sha256\":\"8863bed519706d6ae6f86e0cfb1683f3ce07fd513cbceee7065d854b32520c2b\",\"notes\":[\"更新下载的进度数字跟着蓝色填充走：填充到哪，百分比就在那块蓝底的正中间；填满时正好落在按钮中间\"],\"builtAt\":\"2026-10-31T12:44:16.320Z\"}",
-  "sig": "lmAMIH/l1z57IhnjeZPyYiVR1nOOzuCzqODU9Ds/0T5PlaYuZWe09k5J1JI3DLCi8HkhcMEJdSHCsD+aeEZzrQ=="
+  "payload": "{\"versionCode\":70,\"versionName\":\"0.1.70\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13681427,\"sha256\":\"e02a8564cbafa2353cbb6b19f5c2739e9d01aedb059d5c5c7659843d7a910108\",\"notes\":[\"修掉从「上岸」点进某一笔、再点右上角「编辑」后整屏空白、返回也没反应的问题\"],\"builtAt\":\"2026-10-31T13:13:41.509Z\"}",
+  "sig": "g10zGFtEzFdGH5jLAgdqSn27IyEUQtTjjcadLiZtPNGfxIeHQCOKbXtQnzeBnTpfUEhPFjzwei7181AyiO2Azg=="
 }
