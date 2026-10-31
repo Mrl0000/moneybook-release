@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":68,\"versionName\":\"0.1.68\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13681055,\"sha256\":\"263e76a20c3ed236e318f54e665fad390b0d8b1c9d5eb0641b7eed51d678f460\",\"notes\":[\"「上岸」总览顶部换成进度条主导：还欠着下面一条「已还本金 / 共多少」的进度，下面四格读数（本月要还、已还利息、还要付利息、上岸倒计时）\",\"页面切换有了方向感：进下一层从右侧推进来，返回时反方向退出去\",\"所有弹层（分类、日期、确认框、小科普）改成从底部上滑出现\",\"统计页的日 / 月 / 年之间切换改成淡入淡出，不再左右滑\",\"总欠款数字会从旧值滚到新值（不是每次进来都从 0 开始）\",\"负债列表一项一项淡入，每项间隔 40 毫秒\"],\"builtAt\":\"2026-10-31T12:34:08.705Z\"}",
-  "sig": "SiVsf99tO3bEFSrRHpI67DZ0Y3SAdOEhjR2dCcbeiS5HsbBA9OdV+gw0+WHBkIZ+SUCQtKfsnubvD8KEZZvddg=="
+  "payload": "{\"versionCode\":69,\"versionName\":\"0.1.69\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13681263,\"sha256\":\"8863bed519706d6ae6f86e0cfb1683f3ce07fd513cbceee7065d854b32520c2b\",\"notes\":[\"更新下载的进度数字跟着蓝色填充走：填充到哪，百分比就在那块蓝底的正中间；填满时正好落在按钮中间\"],\"builtAt\":\"2026-10-31T12:44:16.320Z\"}",
+  "sig": "lmAMIH/l1z57IhnjeZPyYiVR1nOOzuCzqODU9Ds/0T5PlaYuZWe09k5J1JI3DLCi8HkhcMEJdSHCsD+aeEZzrQ=="
 }
