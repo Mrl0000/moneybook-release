@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":78,\"versionName\":\"0.1.78\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13701230,\"sha256\":\"1b2a3570a95adb3dffed780cc37141d33dcc7a6677d67cdf0586d8cd55dd810b\",\"notes\":[\"报表里的分类现在能点开「统计」了：按月或按年看这个分类的总支出、笔数、平均每笔、平均每天，还有按天/按月的柱状图和这段时间的每一笔\"],\"builtAt\":\"2026-11-02T10:17:46.735Z\"}",
-  "sig": "2NF8UI/dVqIKOWnv3eIjDvbFNQdENdWSSw1LEmGMr4komFrQmCztUz+3m5KoTLFLarvAx21xT/dt3j2ewwnAjQ=="
+  "payload": "{\"versionCode\":79,\"versionName\":\"0.1.79\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13702293,\"sha256\":\"4742fc6e5123bf011167dbb6e066f626c46ce61eb268596c2da3f9f7c1ab886d\",\"notes\":[\"分类统计的柱状图右上角多了一个「标签密度」按钮：横轴下面那行日期可以在「首/中/末 → 1/3/5 → 2/4/6 → 1/5/10」之间依次切换（柱子始终全画，只换标签）\",\"点柱状图上的某一天，会弹出「11-02 / 支出 21.50」这样的两行，不用再自己对照\"],\"builtAt\":\"2026-11-02T13:42:45.325Z\"}",
+  "sig": "741cnz8lPJY37TPS0q/7pMTfB9x6IyP9F/4Rm2YxpOxR1WJVJivpExvnhE06AYqITA8rWkZI1K/MehfNvOn/ow=="
 }
