@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":75,\"versionName\":\"0.1.75\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13688015,\"sha256\":\"9d2611b9b8885a74ccca2ae5149cba3e047d26bafd4a95eb09d220448680d156\",\"notes\":[\"修「统计报表切到年报表整屏白」：根因是切页时那一下\\\"关闭动画\\\"的过渡在退出阶段崩了，现在月/年/日之间这种不播动画的切换不再经过过渡层，年报表能正常打开\"],\"builtAt\":\"2026-10-31T15:12:41.791Z\"}",
-  "sig": "8GgRvonPbUMmhJjKr3dQCI+6XwAA5vkItCGsDDVMRMXOXgKDEgzaabf7V1hy1XmTa79ccHlZamcHuTMaxA/Vhw=="
+  "payload": "{\"versionCode\":75,\"versionName\":\"0.1.75\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13688015,\"sha256\":\"9d2611b9b8885a74ccca2ae5149cba3e047d26bafd4a95eb09d220448680d156\",\"notes\":[\"修「统计报表切到年报表整屏白」：根因是切页时那一下\\\"关闭动画\\\"的过渡在退出阶段崩了，现在月/年/日之间这种不播动画的切换不再经过过渡层，年报表能正常打开\"],\"builtAt\":\"2026-11-02T07:20:08.889Z\"}",
+  "sig": "K7S5hmLdWbBXsbtdys/V6LRIfTxqB0CkHMGavovMMiO8VMWz/QEyA0j8fucRiKrXlcs+CcyDy0o3SIoR1v3p/Q=="
 }
