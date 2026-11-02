@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":80,\"versionName\":\"0.1.80\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703133,\"sha256\":\"7c661d2ec00966e06a21d8933905e43c573da9d656e4a0352196ee013334403a\",\"notes\":[\"「自定义筛选」左侧多了一条竖着的拖拽把手：往右拖一下、或者直接点它，就能关掉（和分类弹层顶上那条抓手是同一个东西，只是方向跟着滑动方向走）\"],\"builtAt\":\"2026-11-02T14:36:34.019Z\"}",
-  "sig": "H+NrwZrRIjZ2VRkqNeCs1lTlDzLpRWm2sBqSSSOFX2A4M/ZNI/2X3mxrb9xP22EJbO5tDGlCkX599CtLs1YJgg=="
+  "payload": "{\"versionCode\":81,\"versionName\":\"0.1.81\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703281,\"sha256\":\"b56843e6c312b1b4e7039d8fa3ba88716f81949f7957e02805f7d030b4767ea7\",\"notes\":[\"「自定义筛选」左边那条拖拽把手加长、加粗了一点，并且从紧贴屏幕边改成往内收 —— 之前细得像一根毛，现在一眼能看出是可以拖的\"],\"builtAt\":\"2026-11-02T14:50:36.599Z\"}",
+  "sig": "BhDU4M82YkWY15fbxYCoyeMbQr4ejcbK3PahiuxoMP9gdz6Ta+2GpNNRJh0hPAqWQ7yA77MHewl4trrz4AqgWQ=="
 }
