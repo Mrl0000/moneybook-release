@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":79,\"versionName\":\"0.1.79\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13702293,\"sha256\":\"4742fc6e5123bf011167dbb6e066f626c46ce61eb268596c2da3f9f7c1ab886d\",\"notes\":[\"分类统计的柱状图右上角多了一个「标签密度」按钮：横轴下面那行日期可以在「首/中/末 → 1/3/5 → 2/4/6 → 1/5/10」之间依次切换（柱子始终全画，只换标签）\",\"点柱状图上的某一天，会弹出「11-02 / 支出 21.50」这样的两行，不用再自己对照\"],\"builtAt\":\"2026-11-02T13:42:45.325Z\"}",
-  "sig": "741cnz8lPJY37TPS0q/7pMTfB9x6IyP9F/4Rm2YxpOxR1WJVJivpExvnhE06AYqITA8rWkZI1K/MehfNvOn/ow=="
+  "payload": "{\"versionCode\":80,\"versionName\":\"0.1.80\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703133,\"sha256\":\"7c661d2ec00966e06a21d8933905e43c573da9d656e4a0352196ee013334403a\",\"notes\":[\"「自定义筛选」左侧多了一条竖着的拖拽把手：往右拖一下、或者直接点它，就能关掉（和分类弹层顶上那条抓手是同一个东西，只是方向跟着滑动方向走）\"],\"builtAt\":\"2026-11-02T14:36:34.019Z\"}",
+  "sig": "H+NrwZrRIjZ2VRkqNeCs1lTlDzLpRWm2sBqSSSOFX2A4M/ZNI/2X3mxrb9xP22EJbO5tDGlCkX599CtLs1YJgg=="
 }
