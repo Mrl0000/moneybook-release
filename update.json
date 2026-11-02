@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":75,\"versionName\":\"0.1.75\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13688015,\"sha256\":\"9d2611b9b8885a74ccca2ae5149cba3e047d26bafd4a95eb09d220448680d156\",\"notes\":[\"修「统计报表切到年报表整屏白」：根因是切页时那一下\\\"关闭动画\\\"的过渡在退出阶段崩了，现在月/年/日之间这种不播动画的切换不再经过过渡层，年报表能正常打开\"],\"builtAt\":\"2026-11-02T07:20:08.889Z\"}",
-  "sig": "K7S5hmLdWbBXsbtdys/V6LRIfTxqB0CkHMGavovMMiO8VMWz/QEyA0j8fucRiKrXlcs+CcyDy0o3SIoR1v3p/Q=="
+  "payload": "{\"versionCode\":76,\"versionName\":\"0.1.76\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13693382,\"sha256\":\"b2b2dd0b59975740c7d922b7159e0c3c41f4bad9186259b48a79182711216f8c\",\"notes\":[\"日历里点某一笔账单，能直接看这一笔的详情（金额、分类、时间、备注），还能顺手改、删、再来一笔\",\"日历可以左右滑动切换月份了：左滑看下个月、右滑看上个月\",\"月报表和年报表饼图下面的分类，点一下就能看到这个分类下的每一笔（标题带笔数）\"],\"builtAt\":\"2026-11-02T08:19:23.533Z\"}",
+  "sig": "Azys2eOIhocTI9Gt0GMnBshO9P3ha+uBdbgLTCMBFPqXzohFvVq/a9wn89Xh6+WBcfCgbNEUlNx0rTT2cYFJNw=="
 }
