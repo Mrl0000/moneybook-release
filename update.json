@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":77,\"versionName\":\"0.1.77\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13695722,\"sha256\":\"101bbcce924baf6596b48dfb6e623f0bf00371245487dfd2a8ca04576bf0fd00\",\"notes\":[\"日历里左右滑动有了提示：第一次进来会教一次「左右滑动切换月份」，滑过一次就不再出现；两侧也留了淡淡的小箭头\",\"账单详情改成四行：金额、分类、时间、备注（没填备注就留空），金额和下面几行对齐\",\"月报 / 年报点开某个分类后，再点其中一笔就能看详情（和日历里那个完全一样）；年报还能按时间正序倒序看\"],\"builtAt\":\"2026-11-02T09:54:56.539Z\"}",
-  "sig": "ZjuHDXk/tc5FXVn5ZhZHvG8SPkVUEV1MageJi8NRof1CPFxNSkkVcdHmIhajfzEsSXwYuV0KnVYCfRIWqGy3Yg=="
+  "payload": "{\"versionCode\":78,\"versionName\":\"0.1.78\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13701230,\"sha256\":\"1b2a3570a95adb3dffed780cc37141d33dcc7a6677d67cdf0586d8cd55dd810b\",\"notes\":[\"报表里的分类现在能点开「统计」了：按月或按年看这个分类的总支出、笔数、平均每笔、平均每天，还有按天/按月的柱状图和这段时间的每一笔\"],\"builtAt\":\"2026-11-02T10:17:46.735Z\"}",
+  "sig": "2NF8UI/dVqIKOWnv3eIjDvbFNQdENdWSSw1LEmGMr4komFrQmCztUz+3m5KoTLFLarvAx21xT/dt3j2ewwnAjQ=="
 }
