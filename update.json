@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":82,\"versionName\":\"0.1.82\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703333,\"sha256\":\"0bf5bcf1fe438242dd13594733eac1ba2e2603db5c01767a08d44aecacf7a504\",\"notes\":[\"报表里从「年」切回「月」不再滑一下了 —— 之前只有 月→年 是干脆的，年→月 还会滑，同一个来回一半一半\"],\"builtAt\":\"2026-11-03T03:00:12.280Z\"}",
-  "sig": "t+tsnxYVoYUVQzX35pMnca2H5aUX6gmInhufvVkZc+CKcnUC2uUZnerGdXVlOmd9fTD/gJV/U0fFf6nJM7Kz3Q=="
+  "payload": "{\"versionCode\":82,\"versionName\":\"0.1.82\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703778,\"sha256\":\"e324f7a97e4ec6e595313e3ecd0374ea93bc89f29fa0103240e58afe7a657f1c\",\"notes\":[\"报表里从「年」切回「月」不再滑一下了 —— 之前只有 月→年 是干脆的，年→月 还会滑，同一个来回一半一半\",\"「上岸」首页和负债详情页的数字对上了 —— 同一笔房贷，之前两边显示的欠款、下期还款额、剩余期数都不一样\",\"差别只出现在「利率调整过」或「提前还款时勾了金额含当期利息」的负债上：首页之前没把这两项算进去\"],\"builtAt\":\"2026-11-03T04:20:05.583Z\"}",
+  "sig": "0/xGpGJnhbVeOe7iQa/bTexc5jdZjSi1Z7ZZAgbD4XYwHQpUscH5X7FXkv9FdNYxhw1mJ6PHkX/HS+NgbrFdKg=="
 }
