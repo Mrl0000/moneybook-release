@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":81,\"versionName\":\"0.1.81\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703281,\"sha256\":\"b56843e6c312b1b4e7039d8fa3ba88716f81949f7957e02805f7d030b4767ea7\",\"notes\":[\"「自定义筛选」左边那条拖拽把手加长、加粗了一点，并且从紧贴屏幕边改成往内收 —— 之前细得像一根毛，现在一眼能看出是可以拖的\"],\"builtAt\":\"2026-11-02T14:50:36.599Z\"}",
-  "sig": "BhDU4M82YkWY15fbxYCoyeMbQr4ejcbK3PahiuxoMP9gdz6Ta+2GpNNRJh0hPAqWQ7yA77MHewl4trrz4AqgWQ=="
+  "payload": "{\"versionCode\":82,\"versionName\":\"0.1.82\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703333,\"sha256\":\"0bf5bcf1fe438242dd13594733eac1ba2e2603db5c01767a08d44aecacf7a504\",\"notes\":[\"报表里从「年」切回「月」不再滑一下了 —— 之前只有 月→年 是干脆的，年→月 还会滑，同一个来回一半一半\"],\"builtAt\":\"2026-11-03T03:00:12.280Z\"}",
+  "sig": "t+tsnxYVoYUVQzX35pMnca2H5aUX6gmInhufvVkZc+CKcnUC2uUZnerGdXVlOmd9fTD/gJV/U0fFf6nJM7Kz3Q=="
 }
