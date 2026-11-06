@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":83,\"versionName\":\"0.1.83\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703834,\"sha256\":\"80deb036d9e063f91028a1022752411deaa163981c4e1d1d21a36c5674c2843e\",\"notes\":[\"「上岸」首页和负债详情页的数字对上了 —— 同一笔房贷，之前两边显示的欠款、下期还款额、剩余期数都不一样\",\"差别只出现在「利率调整过」或「提前还款时勾了金额含当期利息」的负债上：首页之前没把这两项算进去\",\"⚠️ 这一版必须装：0.1.82 出过两个内容不同的包（版本号相同），只装过前一个的话收不到上面这条修复\"],\"builtAt\":\"2026-11-03T05:05:23.772Z\"}",
-  "sig": "4hXR47U2UkiPuUrr+mg6dI4fvzVk75W+SKkkJ2egJLaBPKqjgVY3/HJRTouNqr229ZkPGFHMMzji1F9Z95H3Fw=="
+  "payload": "{\"versionCode\":84,\"versionName\":\"0.1.84\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703940,\"sha256\":\"fe69f2e0e8da966aeccc6e5ff5181a21123b005a325202f22082a61c4b45bf55\",\"notes\":[\"装了几十次更新之后，App 的存储占用会涨到几百 MB —— 每次升级下载的安装包都没删，一直躺在缓存里\",\"这一版启动时会自动清掉它们，以后的安装包也改成固定文件名（只留一份）。装完第一次打开就能看到占用掉下来\",\"导出的账单文件也一起清了（分享出去之后，本地那份就没用了）\"],\"builtAt\":\"2026-11-06T10:08:29.529Z\"}",
+  "sig": "JHpnI7D2FDrQH1v1tScMyaqqDnzxIF7l2oro6ofGZzQnJcLjj3LGsiSZ/JNnCFVUUUWhCYxBIe2rBFoTMQC2RQ=="
 }
