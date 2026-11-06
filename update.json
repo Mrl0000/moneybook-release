@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":84,\"versionName\":\"0.1.84\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13703940,\"sha256\":\"fe69f2e0e8da966aeccc6e5ff5181a21123b005a325202f22082a61c4b45bf55\",\"notes\":[\"装了几十次更新之后，App 的存储占用会涨到几百 MB —— 每次升级下载的安装包都没删，一直躺在缓存里\",\"这一版启动时会自动清掉它们，以后的安装包也改成固定文件名（只留一份）。装完第一次打开就能看到占用掉下来\",\"导出的账单文件也一起清了（分享出去之后，本地那份就没用了）\"],\"builtAt\":\"2026-11-06T10:08:29.529Z\"}",
-  "sig": "JHpnI7D2FDrQH1v1tScMyaqqDnzxIF7l2oro6ofGZzQnJcLjj3LGsiSZ/JNnCFVUUUWhCYxBIe2rBFoTMQC2RQ=="
+  "payload": "{\"versionCode\":85,\"versionName\":\"0.1.85\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13704372,\"sha256\":\"cbe95276a7382a9cb6f66191d215afca3f2f963ccbcfe84751e65b2557170f9e\",\"notes\":[\"装完的安装包还会在缓存里留一份（13.7MB）—— 上一版只清了历史那些，漏了当前这份，这次一起清\"],\"builtAt\":\"2026-11-06T10:26:16.093Z\"}",
+  "sig": "m42sw50NCt2DKOiiFYYqs1pCvy8HLSvn6VduCEEs9Ylgmj+ThGZgaHgsBdv/jASR0+AtwidCH02i+SgCfx041A=="
 }
