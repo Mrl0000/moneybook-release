@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":87,\"versionName\":\"0.1.87\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13705159,\"sha256\":\"d42897202a8c668ae926594f73e60a5ee499be4ffb2bbc73f0eecbece4d365c7\",\"notes\":[\"启动页去掉了 —— logo、名称、转圈全部不要了。点开 App 只会经过一层和首页同色的底色，然后就是首页\",\"深色模式下那层底色也换成了深色，不会再闪一下白\"],\"builtAt\":\"2026-11-11T10:20:36.893Z\"}",
-  "sig": "G0980d3JAb8EJLE9z+QQ+XCzwNKbwHpEEFVjknyHEai1BDibH4qDuB0vJhPYqrVLhsVCG1I2AYVlLhib7l1naA=="
+  "payload": "{\"versionCode\":88,\"versionName\":\"0.1.88\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13709192,\"sha256\":\"ac416b5888670b9ea05f400320b23495c435fa700d35288d44e50b0ede85ab2c\",\"notes\":[\"负债详情页可以直接记一笔提前还款了 —— 不用再进编辑页翻到最底下\",\"填金额的时候就能看到结果：省多少利息、还剩几期、什么时候上岸、每期还款变成多少，改之前和改之后并排比\",\"可以选「月供不变·缩短年限」或「期数不变·降低月供」，还能只当计划先算算，不改变今天的欠款\",\"金额超过剩余本金会直接告诉你多填了多少、最多能还多少\",\"提前还款记在「最后已还的那一期」之后时，以前在页面上看不到这一笔（那一期收在历史明细里）；现在它会直接出现在未来计划的最上面\"],\"builtAt\":\"2026-11-11T13:44:54.248Z\"}",
+  "sig": "97osi6Abo10GUBP6/tpz5btjINBUrXtSv0pUgFJUaTuAJEzYME8O0mnLvbmEz5B3nTPCFXeECY2zG4iOdIupCQ=="
 }
