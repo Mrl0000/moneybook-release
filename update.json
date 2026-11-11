@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":85,\"versionName\":\"0.1.85\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13704372,\"sha256\":\"cbe95276a7382a9cb6f66191d215afca3f2f963ccbcfe84751e65b2557170f9e\",\"notes\":[\"装完的安装包还会在缓存里留一份（13.7MB）—— 上一版只清了历史那些，漏了当前这份，这次一起清\"],\"builtAt\":\"2026-11-06T10:26:16.093Z\"}",
-  "sig": "m42sw50NCt2DKOiiFYYqs1pCvy8HLSvn6VduCEEs9Ylgmj+ThGZgaHgsBdv/jASR0+AtwidCH02i+SgCfx041A=="
+  "payload": "{\"versionCode\":86,\"versionName\":\"0.1.86\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13704828,\"sha256\":\"ecc6a8bcb4807b6eead68b07fdb22312ece5603e7090261e559c4085ca34a3f3\",\"notes\":[\"启动页和系统启动图现在长得一样了（蓝色「元」+ 名称 + 副标题）—— 以前是一行黑字加转圈，两层之间会\\\"闪一下\\\"\",\"转圈默认不显示了：正常启动几百毫秒就进首页，只有真的慢（超过 0.6 秒）才会出现，用来区分\\\"还在加载\\\"和\\\"已经卡住\\\"\"],\"builtAt\":\"2026-11-11T09:55:18.087Z\"}",
+  "sig": "1YOOynJgK9spC4fgoqzssEGdt9V5CK+yH+CiuLrZHkivayDVLoIlyJuVATVi+DaTzGlxRY8fTDqxgPI8YXQTBw=="
 }
