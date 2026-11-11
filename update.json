@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":88,\"versionName\":\"0.1.88\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13709192,\"sha256\":\"ac416b5888670b9ea05f400320b23495c435fa700d35288d44e50b0ede85ab2c\",\"notes\":[\"负债详情页可以直接记一笔提前还款了 —— 不用再进编辑页翻到最底下\",\"填金额的时候就能看到结果：省多少利息、还剩几期、什么时候上岸、每期还款变成多少，改之前和改之后并排比\",\"可以选「月供不变·缩短年限」或「期数不变·降低月供」，还能只当计划先算算，不改变今天的欠款\",\"金额超过剩余本金会直接告诉你多填了多少、最多能还多少\",\"提前还款记在「最后已还的那一期」之后时，以前在页面上看不到这一笔（那一期收在历史明细里）；现在它会直接出现在未来计划的最上面\"],\"builtAt\":\"2026-11-11T13:44:54.248Z\"}",
-  "sig": "97osi6Abo10GUBP6/tpz5btjINBUrXtSv0pUgFJUaTuAJEzYME8O0mnLvbmEz5B3nTPCFXeECY2zG4iOdIupCQ=="
+  "payload": "{\"versionCode\":89,\"versionName\":\"0.1.89\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13710104,\"sha256\":\"3a093a6c484d9eeab8cb776323785d9afe360cc4c1aae679705a771d6c50b44e\",\"notes\":[\"「等额本金」的贷款，提前还款选缩短年限时，那句「月供不变」是错的 —— 等额本金的还款额本来就逐月递减。现在改成按你的还款方式说实话：等额本息仍是「月供不变·缩短年限」，等额本金改成「每期本金不变·缩短年限」，底下还会解释一句还款额为什么还是会降\",\"这句文案在负债详情页和编辑页是同一套，两处一起改对了\",\"提前还款试算多一行「每期本金」：改之前 → 改之后。缩期时真正不变的是这个数，光看「每期还款」容易被逐月递减的利息带着走\"],\"builtAt\":\"2026-11-11T14:33:48.430Z\"}",
+  "sig": "5dTtZHRbsr+fy5b0z3zVlayJ6OE7DWo+jsM0NLdDEcmxgvJT143YV5lD2FMMrJIeqI4RwDxlIwdudKK1FfUtdA=="
 }
