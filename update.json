@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":89,\"versionName\":\"0.1.89\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/moneybook-debug.apk\",\"size\":13710104,\"sha256\":\"3a093a6c484d9eeab8cb776323785d9afe360cc4c1aae679705a771d6c50b44e\",\"notes\":[\"「等额本金」的贷款，提前还款选缩短年限时，那句「月供不变」是错的 —— 等额本金的还款额本来就逐月递减。现在改成按你的还款方式说实话：等额本息仍是「月供不变·缩短年限」，等额本金改成「每期本金不变·缩短年限」，底下还会解释一句还款额为什么还是会降\",\"这句文案在负债详情页和编辑页是同一套，两处一起改对了\",\"提前还款试算多一行「每期本金」：改之前 → 改之后。缩期时真正不变的是这个数，光看「每期还款」容易被逐月递减的利息带着走\"],\"builtAt\":\"2026-11-11T14:33:48.430Z\"}",
-  "sig": "5dTtZHRbsr+fy5b0z3zVlayJ6OE7DWo+jsM0NLdDEcmxgvJT143YV5lD2FMMrJIeqI4RwDxlIwdudKK1FfUtdA=="
+  "payload": "{\"versionCode\":90,\"versionName\":\"0.1.90\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.90-90.apk\",\"size\":13712106,\"sha256\":\"21b4af01ef8374ca0820478226b54dbb9a76e76da088a2e70b63085ff4cb727a\",\"notes\":[\"「上岸」总览卡片新增两个操作：「提前还款试算」与「撕掉这一期」，无需进入详情页（入口：抽屉「上岸」→ 任意负债卡片底部）\",\"提前还款试算改为详情页与总览页共用的同一界面，两处试算口径完全一致\",\"每次发版的安装包按版本留档，历史版本可长期下载与核对\",\"更新说明改写为书面表述，涉及功能位置的条目统一标注引导路径（格式：抽屉「上岸」→ 点某笔负债 → 操作区）\"],\"builtAt\":\"2026-11-11T15:07:38.348Z\"}",
+  "sig": "MH292K+1rb8e4HZc08cDUHIyLPQoMptXZOL5G61mLXCatT8whHbHu/pgllIl7eZy/7dkh5/vvGTFWqntJfsdqA=="
 }
