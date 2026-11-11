@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":90,\"versionName\":\"0.1.90\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.90-90.apk\",\"size\":13712106,\"sha256\":\"21b4af01ef8374ca0820478226b54dbb9a76e76da088a2e70b63085ff4cb727a\",\"notes\":[\"「上岸」总览卡片新增两个操作：「提前还款试算」与「撕掉这一期」，无需进入详情页（入口：抽屉「上岸」→ 任意负债卡片底部）\",\"提前还款试算改为详情页与总览页共用的同一界面，两处试算口径完全一致\",\"每次发版的安装包按版本留档，历史版本可长期下载与核对\",\"更新说明改写为书面表述，涉及功能位置的条目统一标注引导路径（格式：抽屉「上岸」→ 点某笔负债 → 操作区）\"],\"builtAt\":\"2026-11-11T15:07:38.348Z\"}",
-  "sig": "MH292K+1rb8e4HZc08cDUHIyLPQoMptXZOL5G61mLXCatT8whHbHu/pgllIl7eZy/7dkh5/vvGTFWqntJfsdqA=="
+  "payload": "{\"versionCode\":91,\"versionName\":\"0.1.91\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.91-91.apk\",\"size\":13713200,\"sha256\":\"d8494ab33f547551a944dafcca76a7a5cd0042869bbe321db13a66d80c260aff\",\"notes\":[\"「上岸」总览卡片上的「撕掉这一期」改为品牌主色按钮（入口：抽屉「上岸」→ 负债卡片底部）\",\"「上岸」总览卡片撕期时补上撕纸动画：撕开、升空、烟花，每 12 期改为彩纸炮\",\"打开「提前还款试算」弹层时按系统返回键会直接退出页面，改为先关闭弹层，再次返回才离开\",\"启动瞬间闪一下白底：启动画面消失到首页首帧之间不再出现白屏\"],\"builtAt\":\"2026-11-11T15:40:36.562Z\"}",
+  "sig": "mb3Xw3s45tH9lUUoBQQS3B4QLO9u0EsruuKoQHU2oJtqNpr9zUkcoG/KciP8LZmZV419TOJXgUeWz+R46NEJAw=="
 }
