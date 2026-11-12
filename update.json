@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":95,\"versionName\":\"0.1.95\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.95-95.apk\",\"size\":13756269,\"sha256\":\"e15e7bfbbf346538641b875416648f75a48c07fb77ced1553a67e6ceb300391d\",\"notes\":[\"自动识别还款：提前几天记的还款之前认不出来（原来只认还款日前后 3 天），现在提前 30 天内都能认出来\"],\"builtAt\":\"2026-11-12T10:02:24.003Z\"}",
-  "sig": "WB5Fk9HJfz31l8qgGsvnw9yhLzKLX172Vg/+81gR//4yWaTIisCv0+jD9AaKietMmBPZJ6PnZE9k9x7/Lc75xA=="
+  "payload": "{\"versionCode\":96,\"versionName\":\"0.1.96\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.96-96.apk\",\"size\":13756221,\"sha256\":\"0133bac97243b271e4dbe1bb087267c5f0a699130bf303337bdebc7f1628bada\",\"notes\":[\"页面骨架样式统一为一份定义：页面留白、主按钮与说明文字在各页面保持一致，不再一页一套\",\"修复进入「上岸」页时偶尔出现的一次内部错误（不影响操作，已消除）\"],\"builtAt\":\"2026-11-12T14:30:21.859Z\"}",
+  "sig": "H9s82lXLHBS/90lmbXSpSbUVDHfzwbNeLFdj0E2Ew0Qszx29Aa61P1VQh9CEpaoUfJ4vWSgFYzc0etcCMg5lpA=="
 }
