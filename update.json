@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":94,\"versionName\":\"0.1.94\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.94-94.apk\",\"size\":13756177,\"sha256\":\"7e1c794c82b6674e0fb01dc9a42045acb2c847d3b35aee1b377225963e7ca471\",\"notes\":[\"还款日提醒：设置 → 提醒，打开后可选提前 1 天、3 天或自定义。到日子手机会弹通知，不用再自己记\",\"自动识别还款：记过一笔和还款金额、日期都对得上的流水时，上岸页顶部会提示「发现 N 笔疑似还款」，确认后一键标记已还\",\"通知权限只在打开提醒开关时才申请，不会装完就弹窗；拒绝也不影响其他功能\"],\"builtAt\":\"2026-11-12T09:26:39.903Z\"}",
-  "sig": "bB60fF1aJ+7OircsnDWHB2IfcXPnFspi4QPFn96UNsoCX7vejv/1WeVHy7MzGwNtbgQ4lRYVaA/OENVahNP4hg=="
+  "payload": "{\"versionCode\":95,\"versionName\":\"0.1.95\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.95-95.apk\",\"size\":13756269,\"sha256\":\"e15e7bfbbf346538641b875416648f75a48c07fb77ced1553a67e6ceb300391d\",\"notes\":[\"自动识别还款：提前几天记的还款之前认不出来（原来只认还款日前后 3 天），现在提前 30 天内都能认出来\"],\"builtAt\":\"2026-11-12T10:02:24.003Z\"}",
+  "sig": "WB5Fk9HJfz31l8qgGsvnw9yhLzKLX172Vg/+81gR//4yWaTIisCv0+jD9AaKietMmBPZJ6PnZE9k9x7/Lc75xA=="
 }
