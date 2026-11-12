@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":96,\"versionName\":\"0.1.96\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.96-96.apk\",\"size\":13756221,\"sha256\":\"0133bac97243b271e4dbe1bb087267c5f0a699130bf303337bdebc7f1628bada\",\"notes\":[\"页面骨架样式统一为一份定义：页面留白、主按钮与说明文字在各页面保持一致，不再一页一套\",\"修复进入「上岸」页时偶尔出现的一次内部错误（不影响操作，已消除）\"],\"builtAt\":\"2026-11-12T14:30:21.859Z\"}",
-  "sig": "H9s82lXLHBS/90lmbXSpSbUVDHfzwbNeLFdj0E2Ew0Qszx29Aa61P1VQh9CEpaoUfJ4vWSgFYzc0etcCMg5lpA=="
+  "payload": "{\"versionCode\":97,\"versionName\":\"0.1.97\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.97-97.apk\",\"size\":13756585,\"sha256\":\"4dc2d6538e42cefed94ef8d6eaf0d9146e13a09716ceb8c6f1e644ff821a03b7\",\"notes\":[\"卡片样式按用途归纳为六种规格：设置、备份、统计、账单、表单各用各的档位，同类页面观感一致\"],\"builtAt\":\"2026-11-12T14:51:36.025Z\"}",
+  "sig": "g/tW2YxicLlxG13aTiICvlz1kExYHFAR/2zRzO7w6OD1J8KgI+1d0lx2UCZYhrrGrspiiQQGUQcV++7TEKaPyQ=="
 }
