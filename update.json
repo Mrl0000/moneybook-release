@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":92,\"versionName\":\"0.1.92\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.92-92.apk\",\"size\":13714964,\"sha256\":\"7b78635cda42976a68304ab889e1e60fff287e6e902a033cda8e3dd634cec9d1\",\"notes\":[\"「撕掉这一期」的烟花和每 12 期的彩纸炮，之前炸在卡片左上角，现在回到卡片正中间\",\"提前还款弹层里的「剩余本金」一度显示成 ¥0.00（金额框还空着的时候），已修正\",\"主题三选一改成一个方块内分三段，选中那段整块填成品牌蓝 —— 比分三个独立方块更省地方，互斥关系也更清楚\",\"提前还款弹层的说明收进「?」里：点问号才弹出小科普，不再把下面的试算结果整块推下去\",\"两个标题改成更准确的说法：「提前还款方式」「提前还款状态」\"],\"builtAt\":\"2026-11-12T07:12:16.449Z\"}",
-  "sig": "JTyCuEchytRa10L/kY3PEqIWL3XwNy8/RMft3IcUy6GNZlzQdIeveGeZc1teVzG3e67D21oevINNUwkcvGj+QA=="
+  "payload": "{\"versionCode\":93,\"versionName\":\"0.1.93\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.93-93.apk\",\"size\":13715420,\"sha256\":\"ef6a86ac127af124239e93d5905f6e46588512c92d3e2b61369dd06d506c3a54\",\"notes\":[\"「已还利息」少算了一块 —— 提前还款那天付掉的利息之前没计入。和银行 App 对账差了几百块，现在对上了\",\"提前还款弹层勾了「金额包含当期应计利息」后，直接显示这笔钱的拆分：先扣多少天利息、实际减本金多少\",\"「剩余本金」后面补了「（不含未来利息）」，不再和\\\"总共还要还多少\\\"混淆\",\"主题三选一的高度收到 36，不再占掉一大块地方\"],\"builtAt\":\"2026-11-12T08:29:36.639Z\"}",
+  "sig": "239w/AGOssqQDu+dKOHibRWC2uCW/I2BJGsW42exbe+fH+0S5uCapxesTuQh5e1tIVca3B762zKC1/xI89aq8Q=="
 }
