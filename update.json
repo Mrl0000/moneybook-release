@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":93,\"versionName\":\"0.1.93\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.93-93.apk\",\"size\":13715420,\"sha256\":\"ef6a86ac127af124239e93d5905f6e46588512c92d3e2b61369dd06d506c3a54\",\"notes\":[\"「已还利息」少算了一块 —— 提前还款那天付掉的利息之前没计入。和银行 App 对账差了几百块，现在对上了\",\"提前还款弹层勾了「金额包含当期应计利息」后，直接显示这笔钱的拆分：先扣多少天利息、实际减本金多少\",\"「剩余本金」后面补了「（不含未来利息）」，不再和\\\"总共还要还多少\\\"混淆\",\"主题三选一的高度收到 36，不再占掉一大块地方\"],\"builtAt\":\"2026-11-12T08:29:36.639Z\"}",
-  "sig": "239w/AGOssqQDu+dKOHibRWC2uCW/I2BJGsW42exbe+fH+0S5uCapxesTuQh5e1tIVca3B762zKC1/xI89aq8Q=="
+  "payload": "{\"versionCode\":94,\"versionName\":\"0.1.94\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.94-94.apk\",\"size\":13756177,\"sha256\":\"7e1c794c82b6674e0fb01dc9a42045acb2c847d3b35aee1b377225963e7ca471\",\"notes\":[\"还款日提醒：设置 → 提醒，打开后可选提前 1 天、3 天或自定义。到日子手机会弹通知，不用再自己记\",\"自动识别还款：记过一笔和还款金额、日期都对得上的流水时，上岸页顶部会提示「发现 N 笔疑似还款」，确认后一键标记已还\",\"通知权限只在打开提醒开关时才申请，不会装完就弹窗；拒绝也不影响其他功能\"],\"builtAt\":\"2026-11-12T09:26:39.903Z\"}",
+  "sig": "bB60fF1aJ+7OircsnDWHB2IfcXPnFspi4QPFn96UNsoCX7vejv/1WeVHy7MzGwNtbgQ4lRYVaA/OENVahNP4hg=="
 }
