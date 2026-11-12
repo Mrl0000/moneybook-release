@@ -1,6 +1,14 @@
 {
-  "latest": "apk/moneybook-0.1.97-97.apk",
+  "latest": "apk/moneybook-0.1.98-98.apk",
   "versions": [
+    {
+      "versionCode": 98,
+      "versionName": "0.1.98",
+      "file": "apk/moneybook-0.1.98-98.apk",
+      "size": 13756957,
+      "sha256": "250a0ca0a69c988b4d11a8710b35cfa93921bbb8e452d43cb329777ab7a44d18",
+      "builtAt": "2026-11-12T15:06:34.481Z"
+    },
     {
       "versionCode": 97,
       "versionName": "0.1.97",

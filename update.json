@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":97,\"versionName\":\"0.1.97\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.97-97.apk\",\"size\":13756585,\"sha256\":\"4dc2d6538e42cefed94ef8d6eaf0d9146e13a09716ceb8c6f1e644ff821a03b7\",\"notes\":[\"卡片样式按用途归纳为六种规格：设置、备份、统计、账单、表单各用各的档位，同类页面观感一致\"],\"builtAt\":\"2026-11-12T14:51:36.025Z\"}",
-  "sig": "g/tW2YxicLlxG13aTiICvlz1kExYHFAR/2zRzO7w6OD1J8KgI+1d0lx2UCZYhrrGrspiiQQGUQcV++7TEKaPyQ=="
+  "payload": "{\"versionCode\":98,\"versionName\":\"0.1.98\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.98-98.apk\",\"size\":13756957,\"sha256\":\"250a0ca0a69c988b4d11a8710b35cfa93921bbb8e452d43cb329777ab7a44d18\",\"notes\":[\"分段选择器按用途分三种规格：表单里是白底细边、弹层里是胶囊轨道、设置行内是紧凑小号，同类位置观感统一\"],\"builtAt\":\"2026-11-12T15:06:32.317Z\"}",
+  "sig": "bLRt0j4h1EHxWv0ldkaobEiwV7mix0Xj3fHJ9Uui5Qt03Vj4K0ZFIBopCqqs8HLood8MTvDdVXvLbub3TefZ7w=="
 }
