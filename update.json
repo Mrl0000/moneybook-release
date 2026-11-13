@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":102,\"versionName\":\"0.1.102\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.102-102.apk\",\"size\":13757409,\"sha256\":\"e3cf0e762e506aab1b04f0cb2f22bf2fe7452e9a2441d512b197cac1b1aa94dc\",\"notes\":[\"还款提醒的「1 天 / 3 天 / 自定义」被压扁了，「自定义」还折成两行；现在三个一样宽\",\"应用内更新改走国内镜像下载，不用再挂 VPN\"],\"builtAt\":\"2026-11-13T05:51:50.573Z\"}",
-  "sig": "ejT6/fbFj0nN64YTAClMsrj1nrP9WOfm4iFnmzVx9plPM+fm7AuqP2ViMnRgblY5I2fJ1uMHDAOmHyOjteVbxg=="
+  "payload": "{\"versionCode\":103,\"versionName\":\"0.1.103\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.103-103.apk\",\"size\":13767541,\"sha256\":\"f6e7ff5437cdd6e11437ed6944ac40992f541d3ff463f7a7a3dd3c28060df430\",\"notes\":[\"周期账单：房租、房贷、会员费这类固定要花的钱，加一次就不用每次手动记\",\"到日子会在首页提示「N 笔待确认」，点确认就生成一笔账；也可以在设置里改成直接入账\",\"周期账单可以绑到负债上，生成的流水会自动把对应那一期标成已还\"],\"builtAt\":\"2026-11-13T06:56:48.334Z\"}",
+  "sig": "MVQdrBlvTcJ2eXoGJp136Ly2rZRF7rxdK2vFzUoi/V3YE7MqVSh4dFKoXpYGAW212PDzv/Ii3w1C519CGvECLg=="
 }
