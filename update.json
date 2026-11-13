@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":101,\"versionName\":\"0.1.101\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.101-101.apk\",\"size\":13757261,\"sha256\":\"a93b0299dc3b02faa78497b5c97ba63189107a93105555f38f428b9d26ab4c2e\",\"notes\":[\"在线更新下载完跳到安装界面时，会出现「这一页没能显示出来」，现在不会了\",\"还款提醒选「1 天」或「3 天」后再点「自定义」，两个选项同时亮着；现在只会亮一个\",\"自定义筛选的抽屉拖到一半关掉，下次打开停在半开位置；现在每次都完整展开\",\"长按图标隐藏：小米手机上仍然没反应，这次补了另一条事件路径\",\"还款提醒的三个选项改成等宽，不再按文字长短宽窄不一\"],\"builtAt\":\"2026-11-13T05:25:18.479Z\"}",
-  "sig": "mU3XH0Gbdw8Ga2xaGkPyO2e7f+zmA+pXc5++vAQMn7mhKes8VNZujklVe7RLVIMrPjoQyfmtQemexDbkeIubQQ=="
+  "payload": "{\"versionCode\":102,\"versionName\":\"0.1.102\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.102-102.apk\",\"size\":13757409,\"sha256\":\"e3cf0e762e506aab1b04f0cb2f22bf2fe7452e9a2441d512b197cac1b1aa94dc\",\"notes\":[\"还款提醒的「1 天 / 3 天 / 自定义」被压扁了，「自定义」还折成两行；现在三个一样宽\",\"应用内更新改走国内镜像下载，不用再挂 VPN\"],\"builtAt\":\"2026-11-13T05:51:50.573Z\"}",
+  "sig": "ejT6/fbFj0nN64YTAClMsrj1nrP9WOfm4iFnmzVx9plPM+fm7AuqP2ViMnRgblY5I2fJ1uMHDAOmHyOjteVbxg=="
 }
