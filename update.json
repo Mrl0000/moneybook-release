@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":100,\"versionName\":\"0.1.100\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.100-100.apk\",\"size\":13756785,\"sha256\":\"a16472705c8bfa7d1fde00fbd05b7fad07c321ebaa19cb3cdccdcb0aa948c881\",\"notes\":[\"长按图标隐藏之前用不了：安卓系统会先把长按抢走，现在能正常弹出「隐藏」菜单了\",\"图标管理页的空白提示补上了操作路径 —— 原来只说「没有」，看不出怎么才会产生\",\"拖动分类排序时不再左右晃：只跟上下，锁死在原来那一列\",\"图标区标签旁边加了「长按可隐藏」，不用再靠试才知道\"],\"builtAt\":\"2026-11-13T04:07:56.946Z\"}",
-  "sig": "7hgOn0yFGZbneJmF62zzo/qGs36P1/wbfKrLdnQcwDye6HviczwJvYJr6zkzSZOVeaHn95U94uRxB5r2q+9Guw=="
+  "payload": "{\"versionCode\":101,\"versionName\":\"0.1.101\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.101-101.apk\",\"size\":13757261,\"sha256\":\"a93b0299dc3b02faa78497b5c97ba63189107a93105555f38f428b9d26ab4c2e\",\"notes\":[\"在线更新下载完跳到安装界面时，会出现「这一页没能显示出来」，现在不会了\",\"还款提醒选「1 天」或「3 天」后再点「自定义」，两个选项同时亮着；现在只会亮一个\",\"自定义筛选的抽屉拖到一半关掉，下次打开停在半开位置；现在每次都完整展开\",\"长按图标隐藏：小米手机上仍然没反应，这次补了另一条事件路径\",\"还款提醒的三个选项改成等宽，不再按文字长短宽窄不一\"],\"builtAt\":\"2026-11-13T05:25:18.479Z\"}",
+  "sig": "mU3XH0Gbdw8Ga2xaGkPyO2e7f+zmA+pXc5++vAQMn7mhKes8VNZujklVe7RLVIMrPjoQyfmtQemexDbkeIubQQ=="
 }
