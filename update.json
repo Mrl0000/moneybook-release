@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":99,\"versionName\":\"0.1.99\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.99-99.apk\",\"size\":13756357,\"sha256\":\"e538c8642b91ce273a68bb414b2561602dedae355fef713eae01c0e26ae73023\",\"notes\":[\"页面骨架、输入框、字段标签、胶囊、弹层遮罩这些重复样式全部收进一份，13 个页面不再各存一份副本\",\"分类图标管理页的页头不再跟着内容一起滚走；滚到底也不会被手势条压住\"],\"builtAt\":\"2026-11-13T03:10:13.161Z\"}",
-  "sig": "qgbECO4juDOBw0jI9G1RjpChxkmhyBtKB8eKfM9GymgoJss6K/L4X4TutwkNid+38y4M1b8djTidAFV1vMxUyQ=="
+  "payload": "{\"versionCode\":100,\"versionName\":\"0.1.100\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.100-100.apk\",\"size\":13756785,\"sha256\":\"a16472705c8bfa7d1fde00fbd05b7fad07c321ebaa19cb3cdccdcb0aa948c881\",\"notes\":[\"长按图标隐藏之前用不了：安卓系统会先把长按抢走，现在能正常弹出「隐藏」菜单了\",\"图标管理页的空白提示补上了操作路径 —— 原来只说「没有」，看不出怎么才会产生\",\"拖动分类排序时不再左右晃：只跟上下，锁死在原来那一列\",\"图标区标签旁边加了「长按可隐藏」，不用再靠试才知道\"],\"builtAt\":\"2026-11-13T04:07:56.946Z\"}",
+  "sig": "7hgOn0yFGZbneJmF62zzo/qGs36P1/wbfKrLdnQcwDye6HviczwJvYJr6zkzSZOVeaHn95U94uRxB5r2q+9Guw=="
 }
