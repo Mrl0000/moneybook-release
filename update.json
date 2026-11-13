@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":107,\"versionName\":\"0.1.107\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.107-107.apk\",\"size\":13773045,\"sha256\":\"1f9936cdf5d0e63ba6547356843285827d1b6c97a9762fe06b1dcba13c843536\",\"notes\":[\"时间选择滚轮改为整行都能拖动，行更高、弹窗更大，松手自动吸附到整项（入口：底部「报表」→ 收支报表 → 顶部的年月）\",\"年份统一放开到未来 5 年，报表、记账、周期账单的时间选择都可用（原来最多只到当年）\",\"记一笔的时间选择改成底部滚轮，与报表页一致（入口：记一笔 → 时间）\",\"周期账单的「每周几 / 每月几号」选择面板改到屏幕正中（入口：周期账单 → 记录周期）\",\"跟随系统主题在系统切换深浅色后立即生效，不再需要重启（入口：设置 → 主题）\"],\"builtAt\":\"2026-11-13T14:33:47.173Z\"}",
-  "sig": "G399frcPr1W3GEpSBSY0LIJugwY0VKHOw6D+b1oRlw8i4re+2p5ZnBY1jwZlhirV+3cVmFHjrYuPOtQ6vzikpA=="
+  "payload": "{\"versionCode\":108,\"versionName\":\"0.1.108\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.108-108.apk\",\"size\":13773181,\"sha256\":\"a03f39b87d8646280f30679a3c860969c5ea737a5e5512852ebb776af317f794\",\"notes\":[\"新增负债改成两步：点负债类型只做选中，点底部「编辑负债」才进入填写（入口：抽屉「上岸」→ 新增负债）\",\"设置页的入账方式改为「确认后入账 / 直接入账」，两个选项等宽（入口：设置 → 周期账单）\",\"切换入账方式后不再弹出提示，结果已由选项文案说明\"],\"builtAt\":\"2026-11-13T15:10:38.009Z\"}",
+  "sig": "bL0ALrqr/I3pGPjie6bcF/YethaaQ/Z7O7bRvE70rx0+3/Y7smAv/qM285dXi+nrs3fZDj8XOHpn2B/JxXx+xQ=="
 }
