@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":103,\"versionName\":\"0.1.103\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.103-103.apk\",\"size\":13767541,\"sha256\":\"f6e7ff5437cdd6e11437ed6944ac40992f541d3ff463f7a7a3dd3c28060df430\",\"notes\":[\"周期账单：房租、房贷、会员费这类固定要花的钱，加一次就不用每次手动记\",\"到日子会在首页提示「N 笔待确认」，点确认就生成一笔账；也可以在设置里改成直接入账\",\"周期账单可以绑到负债上，生成的流水会自动把对应那一期标成已还\"],\"builtAt\":\"2026-11-13T06:56:48.334Z\"}",
-  "sig": "MVQdrBlvTcJ2eXoGJp136Ly2rZRF7rxdK2vFzUoi/V3YE7MqVSh4dFKoXpYGAW212PDzv/Ii3w1C519CGvECLg=="
+  "payload": "{\"versionCode\":104,\"versionName\":\"0.1.104\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.104-104.apk\",\"size\":13769045,\"sha256\":\"7376338d361a8101fea4e3d5361ede8e8f695d9a5792c8bc02eb572e8a2e73fb\",\"notes\":[\"新建周期账单时选不了分类，现在能选了\",\"新建周期账单后首页不出现待确认条，现在保存后立刻检查\",\"周期账单改成按「每月几号 / 每周几」设置，不再需要选一个看不懂的「下次执行日」\",\"周期账单可以设结束日期：永不停止，或指定某天之后不再生成\",\"周期账单新增「每天」这一档\"],\"builtAt\":\"2026-11-13T08:25:02.104Z\"}",
+  "sig": "GwkJqLoT1p3IJ5udJTcVBh0TIUZdhADBWsx6MMzQtaSdoxDmYvVGArort1tvdJxav+mEBNKGrkAUG9AEEjTXow=="
 }
