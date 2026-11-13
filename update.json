@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":106,\"versionName\":\"0.1.106\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.106-106.apk\",\"size\":13771910,\"sha256\":\"8d59bc160cebd2733ebf15edfffbbb72d8dc97877b9b2303727f699c22d9750a\",\"notes\":[\"统计报表的年月选择改成滚轮：年份单列、月份年月双列，滑到哪就选到哪\",\"滚轮停在中间那一行是蓝色大字并带「年 / 月」，上下两行灰色不带单位\",\"时间选择统一成底部弹出，离屏幕底部留一点距离，不再贴在边上看不清\",\"年月的选择面板加了选中横条，一眼能看出停在哪一行\"],\"builtAt\":\"2026-11-13T10:46:14.944Z\"}",
-  "sig": "XzeOdr2YRm7NfXIUtJbYmCj3Gg16aLDQqW6HyyXkGprVbDd2eQMfFhpsr3/EAjSgXVs/mbBjI/Ht5doNzRWV9w=="
+  "payload": "{\"versionCode\":107,\"versionName\":\"0.1.107\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.107-107.apk\",\"size\":13773045,\"sha256\":\"1f9936cdf5d0e63ba6547356843285827d1b6c97a9762fe06b1dcba13c843536\",\"notes\":[\"时间选择滚轮改为整行都能拖动，行更高、弹窗更大，松手自动吸附到整项（入口：底部「报表」→ 收支报表 → 顶部的年月）\",\"年份统一放开到未来 5 年，报表、记账、周期账单的时间选择都可用（原来最多只到当年）\",\"记一笔的时间选择改成底部滚轮，与报表页一致（入口：记一笔 → 时间）\",\"周期账单的「每周几 / 每月几号」选择面板改到屏幕正中（入口：周期账单 → 记录周期）\",\"跟随系统主题在系统切换深浅色后立即生效，不再需要重启（入口：设置 → 主题）\"],\"builtAt\":\"2026-11-13T14:33:47.173Z\"}",
+  "sig": "G399frcPr1W3GEpSBSY0LIJugwY0VKHOw6D+b1oRlw8i4re+2p5ZnBY1jwZlhirV+3cVmFHjrYuPOtQ6vzikpA=="
 }
