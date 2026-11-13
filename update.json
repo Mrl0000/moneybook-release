@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":104,\"versionName\":\"0.1.104\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.104-104.apk\",\"size\":13769045,\"sha256\":\"7376338d361a8101fea4e3d5361ede8e8f695d9a5792c8bc02eb572e8a2e73fb\",\"notes\":[\"新建周期账单时选不了分类，现在能选了\",\"新建周期账单后首页不出现待确认条，现在保存后立刻检查\",\"周期账单改成按「每月几号 / 每周几」设置，不再需要选一个看不懂的「下次执行日」\",\"周期账单可以设结束日期：永不停止，或指定某天之后不再生成\",\"周期账单新增「每天」这一档\"],\"builtAt\":\"2026-11-13T08:25:02.104Z\"}",
-  "sig": "GwkJqLoT1p3IJ5udJTcVBh0TIUZdhADBWsx6MMzQtaSdoxDmYvVGArort1tvdJxav+mEBNKGrkAUG9AEEjTXow=="
+  "payload": "{\"versionCode\":105,\"versionName\":\"0.1.105\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.105-105.apk\",\"size\":13770077,\"sha256\":\"dcf0731bb262c92f35618fd421df60bf7e2f937f4a020324b8a7dd93b28540bd\",\"notes\":[\"周期账单的「每月几号」「每周几」改成网格面板，点一下就选中，不再用系统下拉框\",\"季度和年度的日期选择换成应用内日历，配色跟主题一致\",\"设置里「生成后」改名「入账方式」，「多久一次」改名「记录周期」\",\"记录周期按由短到长排：每天、每周、每月、每季、每年\"],\"builtAt\":\"2026-11-13T10:19:35.831Z\"}",
+  "sig": "iPTrx4IKo5q30G5JrO7d6X4yPvqOuO+79PuJY0PcLSArz8HCAuRYW5GeM64UNYPDFe868PpkMkKTxzosWRPAnQ=="
 }
