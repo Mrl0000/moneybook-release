@@ -1,4 +1,4 @@
 {
-  "payload": "{\"versionCode\":98,\"versionName\":\"0.1.98\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.98-98.apk\",\"size\":13756957,\"sha256\":\"250a0ca0a69c988b4d11a8710b35cfa93921bbb8e452d43cb329777ab7a44d18\",\"notes\":[\"分段选择器按用途分三种规格：表单里是白底细边、弹层里是胶囊轨道、设置行内是紧凑小号，同类位置观感统一\"],\"builtAt\":\"2026-11-12T15:06:32.317Z\"}",
-  "sig": "bLRt0j4h1EHxWv0ldkaobEiwV7mix0Xj3fHJ9Uui5Qt03Vj4K0ZFIBopCqqs8HLood8MTvDdVXvLbub3TefZ7w=="
+  "payload": "{\"versionCode\":99,\"versionName\":\"0.1.99\",\"apkUrl\":\"https://raw.githubusercontent.com/Mrl0000/moneybook-release/main/apk/moneybook-0.1.99-99.apk\",\"size\":13756357,\"sha256\":\"e538c8642b91ce273a68bb414b2561602dedae355fef713eae01c0e26ae73023\",\"notes\":[\"页面骨架、输入框、字段标签、胶囊、弹层遮罩这些重复样式全部收进一份，13 个页面不再各存一份副本\",\"分类图标管理页的页头不再跟着内容一起滚走；滚到底也不会被手势条压住\"],\"builtAt\":\"2026-11-13T03:10:13.161Z\"}",
+  "sig": "qgbECO4juDOBw0jI9G1RjpChxkmhyBtKB8eKfM9GymgoJss6K/L4X4TutwkNid+38y4M1b8djTidAFV1vMxUyQ=="
 }
